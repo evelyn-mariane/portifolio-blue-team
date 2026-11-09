@@ -27,6 +27,3 @@ Principais Descobertas:
 
 ---
 
-Relatório Completo:
-O documento técnico detalhado com as explicações passo a passo e todas as evidências visuais capturadas está disponível na minha pasta de investigações:
-👉 **[Acesse o PDF do Relatório Aqui](./investigacoes-de-seguranca/Relatorio_de_Analise_de_Phishing.pdf)**
